@@ -106,16 +106,7 @@ Before running the MATLAB files, make sure you have the following:
 
 ## 1️⃣ MATLAB Software
 
-You must install **MATLAB** on your computer.
-
-### Recommended Version:
-- MATLAB **R2020a or newer**
-
-### Required Toolboxes (if needed):
-- Signal Processing Toolbox
-- Communications Toolbox
-
-> Some lab simulations may require additional MATLAB packages depending on the experiment.
+You must install **MATLAB** on your computer or use online Compiler.
 
 ---
 
@@ -140,7 +131,7 @@ This helps you understand:
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-github-username/data_communication_lab_JnU_CSE.git
+git clone https://github.com/Minhajul43/data_communication_lab_JnU_CSE.git
 ```
 
 ---
@@ -159,26 +150,6 @@ Example:
 
 ```matlab
 cd 'your-folder-path/data_communication_lab_JnU_CSE'
-```
-
----
-
-## Step 4: Run Any Lab File
-
-Open any `.m` file and click **Run**.
-
-Example:
-
-```matlab
-datacom_lab1
-```
-
-Or,
-
-```matlab
-run('datacom_lab1.m')
-```
-
 ---
 
 # 📊 MATLAB Simulation & Visualization
